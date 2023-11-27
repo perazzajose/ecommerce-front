@@ -1,3 +1,4 @@
+
 h2 {
     font-size: 32px;
     margin: 20px 0;
@@ -7,7 +8,7 @@ h2 {
 .profile-picture-container {
     text-align: center;
     position: relative;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 
@@ -22,7 +23,6 @@ h2 {
     cursor: pointer;
     opacity: 0;
     transition: opacity 0.3s;
-    margin-top: 105px;
 }
 
 
@@ -35,9 +35,10 @@ h2 {
     box-shadow: 0 0 60px hsl(36, 100%, 47%);
 }
 
-.profile-picture-preview-container:hover .profile-picture-overlay {
+.profile-picture-container:hover .profile-picture-overlay {
     opacity: 1;
 }
+
 
 
 .custom-form {
@@ -136,7 +137,6 @@ input[type="tel"] {
       transition: 0.3s;
       box-shadow: 0px 6px 0px -2px #BC5C1C;
       background-color: #ef7a22!important;
-      border-color: transparent!important;
     }
     
     .original-button:hover {
