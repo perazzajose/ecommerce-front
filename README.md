@@ -1,4 +1,27 @@
-# Proyect-Final
-JOC 🡆 xd
-✅formateo css js html
-✅css paramyprofile normal/darkmode/spooky
+
+# Proyecto Ecommerce / JAP
+
+Este repositorio emplea solo frontend
+
+## Página
+
+ - [Ecommerce_front](https://perazzajose.github.io/ecommerce-jap/register.html)
+
+
+
+## Instalación 
+
+Para usar el proyecto
+
+```
+git clone https://github.com/perazzajose/ecommerce-jap.git
+```
+
+
+## Relacionado
+
+Proyecto con backend implementado
+
+[Ecommerce](https://github.com/perazzajose/ecommerce-back)
+
+
