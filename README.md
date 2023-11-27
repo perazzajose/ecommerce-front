@@ -4,7 +4,7 @@ Este repositorio emplea solo frontend
 
 ## Página
 
- - [Ecommerce_front](https://perazzajose.github.io/ecommerce-jap/register.html)
+ - [Ecommerce_front](https://perazzajose.github.io/ecommerce-front/)
 
 
 
